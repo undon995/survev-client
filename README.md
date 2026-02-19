@@ -1,16 +1,29 @@
 # Survev.io Client
 
-This repository contains the client application for Survev.io.
+Welcome to the official repository for the Survev.io client. This client is designed to provide an enhanced gaming experience with optimized performance and additional features.
 
-## Features
+## Key Features
 
-*   **Uncapped FPS:** The client utilizes performance flags and overrides `requestAnimationFrame` to provide an uncapped frame rate, offering a smoother experience.
-*   **Detailed Setup Information:** The README includes comprehensive instructions for setting up and running the client.
+*   **Uncapped FPS:** Experience smoother gameplay with an uncapped frame rate. The client utilizes specialized performance flags and overrides `requestAnimationFrame` to bypass standard browser limitations.
+*   **Performance Optimized:** Built with efficiency in mind to ensure low latency and high responsiveness during intense matches.
+*   **Easy Setup:** Simple installation process to get you into the game quickly.
 
-## Security
+## Security & Transparency
 
-We encourage users to verify the security of the client independently. You can scan the executable with tools like VirusTotal.
+We prioritize the security of our users. To ensure transparency, we encourage everyone to verify the client files independently.
 
-**(VirusTotal Scan Screenshot will be added here)**
+### VirusTotal Scan Results
+Below is a recent scan of the client executable, showing a clean report from multiple security vendors.
 
-*Don't trust us, check VirusTotal to scan the file.*
+![VirusTotal Scan](virustotal_scan.png)
+
+> **Note:** *Don't trust us, check VirusTotal to scan the file yourself for peace of mind.*
+
+## Installation
+
+1. Download the latest release from the [Releases](https://github.com/undon995/survev-client/releases) page.
+2. Extract the files to your preferred directory.
+3. Run `SurvevClient.exe` to start the game.
+
+---
+*Disclaimer: This is a third-party client and is not officially affiliated with the Survev.io developers.*
