@@ -2,6 +2,10 @@
 
 Welcome to the official repository for the Survev.io client. This client is designed to provide an enhanced gaming experience with optimized performance and additional features.
 
+## Gameplay Preview
+
+![Gameplay Screenshot](gameplay_screenshot.png)
+
 ## Key Features
 
 *   **Uncapped FPS:** Experience smoother gameplay with an uncapped frame rate. The client utilizes specialized performance flags and overrides `requestAnimationFrame` to bypass standard browser limitations.
