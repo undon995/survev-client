@@ -1,0 +1,8 @@
+{
+  "name": "survev-client",
+  "version": "1.0.0",
+  "description": "A high-performance desktop client for survev.io with uncapped FPS.",
+  "main": "main.js",
+  "author": "Manus",
+  "license": "MIT"
+}
